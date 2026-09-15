@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "Direction": "multitext",
+    "SetUp": "multitext",
+    "Qty": "number",
+    "Entry": "number",
+    "Exit": "number",
+    "P&L": "number",
+    "% Gain/Loss": "number",
+    "% Total Move": "number"
+  }
+}

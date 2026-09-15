@@ -1,0 +1,40 @@
+filters:
+  and:
+    - file.inFolder("Trade Journals/2026/Trades")
+properties:
+  file.name:
+    displayName: Ticker
+  P&L:
+    displayName: P&L
+  "% Gain/Loss":
+    displayName: "% Gain/Loss"
+  "% Total Move":
+    displayName: "% Total Move"
+views:
+  - type: table
+    name: Trade Journal 2026
+    order:
+      - file.name
+      - Date
+      - Direction
+      - SetUp
+      - Qty
+      - Entry
+      - Exit
+      - P&L
+      - "% Gain/Loss"
+      - "% Total Move"
+    sort:
+      - property: date
+        direction: DESC
+    columnSize:
+      file.name: 156
+      note.date: 156
+      note.Direction: 168
+      note.SetUp: 145
+      note.Qty: 113
+      note.Entry: 116
+      note.Exit: 97
+      note.P&L: 106
+      note.% Gain/Loss: 147
+      note.% Total Move: 195

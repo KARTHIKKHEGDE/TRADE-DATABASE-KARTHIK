@@ -1,0 +1,33 @@
+{
+  "attachPath": {
+    "attachmentRoot": "Images",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "${notepath}/${notename}",
+    "attachFormat": "IMG-${date}",
+    "type": "GLOBAL"
+  },
+  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {
+    "Trade Journals/2026/Trades": {
+      "attachmentRoot": "Images",
+      "saveAttE": "obsFolder",
+      "attachmentPath": "Trades/2026",
+      "attachFormat": "IMG-${date}",
+      "type": "FOLDER"
+    },
+    "Deep Dives": {
+      "attachmentRoot": "Images",
+      "saveAttE": "obsFolder",
+      "attachmentPath": "${parent}",
+      "attachFormat": "IMG-${date}",
+      "type": "FOLDER"
+    }
+  },
+  "disableNotification": false
+}
