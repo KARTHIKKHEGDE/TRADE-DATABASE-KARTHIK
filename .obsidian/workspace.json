@@ -37,14 +37,13 @@
             "id": "e9e7f55cd89f8d69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "PROCESS.md",
-                "mode": "source",
-                "source": false
+                "file": "Trade Journals/2026/Trade Journal 2026.base",
+                "viewName": "Trade Journal 2026"
               },
-              "icon": "lucide-file",
-              "title": "PROCESS"
+              "icon": "lucide-table",
+              "title": "Trade Journal 2026"
             }
           }
         ],
@@ -228,14 +227,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74b0cdb8e48a4c6c",
+  "active": "e9e7f55cd89f8d69",
   "lastOpenFiles": [
+    "Trade Journals/2026/Trades/ZTG.md",
+    "Images/Trades/2026/IMG-20260917005023732.png",
+    "Images/Trades/2026/IMG-20260917004923729.png",
+    "Images/Trades/2026/IMG-20260917004837914.png",
+    "Trade Journals/2026/Trade Journal 2026.base",
+    "PROCESS.md",
     "Deep Dives/Parabolic Short/ideas.md",
     "Images/Parabolic Short/IMG-20260916201206288.png",
     "Deep Dives/Parabolic Short/Parabolic Short.md",
     "Deep Dives/Parabolic Short/Checklist for shorting.md",
-    "Trade Journals/2026/Trade Journal 2026.base",
-    "PROCESS.md",
     "GOAL.md",
     "Daily Playbook/2026/September/09-16-2026.md",
     "Images/Daily Playbook/2026/September/09-16-2026/IMG-20260916182149375.png",
@@ -261,9 +264,6 @@
     "Images/Parabolic Short/IMG-20260916033017464.png",
     "Images/Trades/2026/IMG-20260916025349685.png",
     "Images/Trades/2026/IMG-20260916025343168.png",
-    "Images/Trades/2026/IMG-20260916025311290.png",
-    "Images/Trades/2026/IMG-20260916025542520.png",
-    "Images/Trades/2026/IMG-20260916025548842.png",
     "Images/Deep Dives/Parabolic Short/ideas",
     "Images/Deep Dives/Parabolic Short",
     "Deep Dives/Parabolic Short",
@@ -273,7 +273,6 @@
     "Resources/EP/swan notes.md",
     "DB/Momentum.md",
     "DB/SB Ideas.md",
-    "Deep Dives/Parabolic_short/Parabolic_short-d3fc5cc4-51bd-5de7-8f79-d524db4c005e.md",
-    "DB/Market Wizards The Next Generation (Coyle, George F.  Schwager, Jack D.).md"
+    "Deep Dives/Parabolic_short/Parabolic_short-d3fc5cc4-51bd-5de7-8f79-d524db4c005e.md"
   ]
 }
