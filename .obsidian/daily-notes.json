@@ -1,5 +1,5 @@
 {
   "folder": "Daily Playbook",
-  "format": "MM/DD/YYYY",
+  "format": "YYYY/MMMM/MM-DD-YYYY",
   "template": "Templates/Daily Playbook.md"
 }
