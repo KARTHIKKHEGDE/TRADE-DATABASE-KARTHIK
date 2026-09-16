@@ -15,3 +15,5 @@
 
 1min tf
 ![[IMG-20260917011657292.png]]
+
+1) he took a starter position @160 stoploss was 200 
