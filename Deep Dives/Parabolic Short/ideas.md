@@ -15,3 +15,5 @@
 - trendline approach
 
 ![](https://beta.appflowy.cloud/api/file_storage/476bf889-fbd8-419d-9a45-8856f645ad92/v1/blob/99a2b855-df5d-4ddc-9cb2-b1e45d223c54/Ot_pf3Gjo87qtLtT5Hr64K8yvjkwk_R0V1ensDjjT7A=.png)
+
+* sometimes first 3-4 candles parabolic which is a sign of reversal![[IMG-20260916201206288.png]]
