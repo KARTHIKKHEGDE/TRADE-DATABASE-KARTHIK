@@ -11,13 +11,14 @@
             "id": "bdeb1e39f3a93628",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Trade Journals/2026/Trade Journal 2026.base",
-                "viewName": "Trade Journal 2026"
+                "file": "Templates/Daily Playbook.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Trade Journal 2026"
+              "icon": "lucide-file",
+              "title": "Daily Playbook"
             }
           }
         ]
@@ -202,8 +203,8 @@
   },
   "active": "bdeb1e39f3a93628",
   "lastOpenFiles": [
-    "GOAL.md",
     "Trade Journals/2026/Trade Journal 2026.base",
+    "GOAL.md",
     "Trade Journals/2026/Trades/SMCPHARMAS.md",
     "Obsidian_Trade_Journal_Migration_Guide.md",
     "Deep Dives/Intraday Deepdives.md",
