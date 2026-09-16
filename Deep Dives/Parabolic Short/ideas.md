@@ -1,5 +1,5 @@
   
-
+* if you failed to catch the short then just wait for vwap pullback (use day's high or last swing as a SL dont put SL just above vwap )
 - scan for stocks that are gapping up because FRD usually always gapped up
 - on FRD if gap up happens , then check for 5 min high vol in red , and may be also in green and next candle followed by red which will engulf the first green candle , if you miss the entry sometimes u can ener small and wait for vwap reclaim to add more
 - Trust the math even if gets uncomfortable

@@ -360,3 +360,6 @@ again trendline
 
 39)
 ![[IMG-20260917010627149.png]]
+
+5min , if i couldnt catch it then wait for vwap pullback
+![[IMG-20260917010821282.png]]

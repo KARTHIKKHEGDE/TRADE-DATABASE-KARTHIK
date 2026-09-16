@@ -11,13 +11,14 @@
             "id": "bdeb1e39f3a93628",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Trade Journals/2026/Trade Journal 2026.base",
-                "viewName": "Trade Journal 2026"
+                "file": "Deep Dives/Parabolic Short/Simon Russo Best trade.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Trade Journal 2026"
+              "icon": "lucide-file",
+              "title": "Simon Russo Best trade"
             }
           },
           {
@@ -26,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Dives/Parabolic Short/Parabolic Short.md",
+                "file": "Deep Dives/Parabolic Short/ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parabolic Short"
+              "title": "ideas"
             }
           },
           {
@@ -48,8 +49,7 @@
               "title": "MNOV"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52c215c08a3fdd49",
@@ -230,33 +229,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b96176434b8503f7",
+  "active": "bdeb1e39f3a93628",
   "lastOpenFiles": [
-    "Images/Parabolic Short/IMG-20260917010627149.png",
+    "Images/Parabolic Short/IMG-20260917011747741.png",
+    "Images/Parabolic Short/IMG-20260917011657292.png",
+    "Images/Parabolic Short/IMG-20260917011559057.png",
+    "Images/Parabolic Short/IMG-20260917011551738.png",
+    "Images/Parabolic Short/IMG-20260917011429143.png",
+    "Images/Parabolic Short/IMG-20260917011322986.png",
+    "Deep Dives/Parabolic Short/Parabolic Short.md",
+    "Deep Dives/Parabolic Short/Simon Russo Best trade.md",
+    "Deep Dives/Parabolic Short/Checklist for shorting.md",
     "Deep Dives/Parabolic Short/ideas.md",
-    "Images/Parabolic Short/IMG-20260917010225801.png",
     "Trade Journals/2026/Trade Journal 2026.base",
+    "Images/Parabolic Short/IMG-20260917010821282.png",
+    "Images/Parabolic Short/IMG-20260917010627149.png",
+    "Images/Parabolic Short/IMG-20260917010225801.png",
     "Trade Journals/2026/Trades/MNOV.md",
     "Images/Trades/2026/IMG-20260917010034576.png",
     "Images/Trades/2026/IMG-20260917005940771.png",
     "Templates/Trade Review.md",
-    "Images/Trades/2026/IMG-20260917005817525.png",
     "Trade Journals/2026/Trades/ZTG.md",
-    "Images/Trades/2026/IMG-20260917005023732.png",
-    "Images/Trades/2026/IMG-20260917004923729.png",
-    "Images/Trades/2026/IMG-20260917004837914.png",
     "PROCESS.md",
-    "Images/Parabolic Short/IMG-20260916201206288.png",
-    "Deep Dives/Parabolic Short/Parabolic Short.md",
-    "Deep Dives/Parabolic Short/Checklist for shorting.md",
     "GOAL.md",
     "Daily Playbook/2026/September/09-16-2026.md",
-    "Images/Daily Playbook/2026/September/09-16-2026/IMG-20260916182149375.png",
     "Images/Daily Playbook/2026/September/09-16-2026",
     "Images/Daily Playbook/2026/September",
     "Images/Daily Playbook/2026",
     "Images/Daily Playbook",
-    "Images/Daily Playbook/2026/September/09-16-2026/IMG-20260916182128206.png",
     "Trade Journals/2026/Trades/SMCPHARMAS.md",
     "Trade Journals/2026/Trades/AHCL.md",
     "DB/Advanced Techniques in Day Trading_ A Practical Guide to -- Andrew Aziz.md",
@@ -276,7 +276,6 @@
     "Resources/Swing School.md",
     "Resources/Stockbee.md",
     "Resources/BOOKS.md",
-    "Resources/EP/swan notes.md",
-    "DB/Momentum.md"
+    "Resources/EP/swan notes.md"
   ]
 }
