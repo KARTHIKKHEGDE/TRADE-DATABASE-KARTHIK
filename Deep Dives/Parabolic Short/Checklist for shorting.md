@@ -1,3 +1,5 @@
+
+https://youtu.be/P4Ijq-IJhE8  --- PURE GOLD FOR SHORTING
 ### Prerequisite: It must be an "in-play" stock
 
 Before any variable applies, the stock needs to be moving on unusually high volume and trading in a wider-than-average range, usually triggered by news or a technical break. Without large ranges and heavy emotion/price discovery, there's no edge to exploit.
