@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Dives/Intraday Deepdives.md",
+                "file": "GOAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intraday Deepdives"
+              "title": "GOAL"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Dives/Intraday Deepdives.md",
+                "file": "Trade Journals/2026/Trade Journal 2026.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bdeb1e39f3a93628",
   "lastOpenFiles": [
-    "Setting up things.md",
+    "Trade Journals/2026/Trade Journal 2026.base",
+    "GOAL.md",
+    "Trade Journals/2026/Trades/SMCPHARMAS.md",
     "Obsidian_Trade_Journal_Migration_Guide.md",
-    "Unconfirmed 934992.crdownload",
     "Deep Dives/Intraday Deepdives.md",
+    "Setting up things.md",
+    "Unconfirmed 934992.crdownload",
     "Images/Deep Dives/IMG-20260916033007088.png",
     "Deep Dives/Parabolic Short/Parabolic Short.md",
     "broken links output.md",
@@ -222,7 +226,6 @@
     "Images/Deep Dives/Parabolic Short/ideas/IMG-20260916032600769.png",
     "Images/Deep Dives/Parabolic Short/ideas",
     "Images/Deep Dives/Parabolic Short",
-    "Trade Journals/2026/Trades/SMCPHARMAS.md",
     "Deep Dives/Parabolic Short",
     "Resources/Swing School.md",
     "Resources/Stockbee.md",
@@ -240,13 +243,10 @@
     "DB/How to Day Trade for a Living -- Andrew Aziz.md",
     "().md",
     "DB",
-    "Trade Journals/2026/Trade Journal 2026.base",
     "Deep Dives/notes_from_books",
     "Deep Dives/Parabolic_short",
     "Daily Playbook/2026/September/15.md",
-    "Trade Journals/2026/Trades/AHCL.md",
     "Pasted image 20260916022109.png",
-    "Pasted image 20260916022129.png",
-    "Templates/Calculate Trade.md"
+    "Pasted image 20260916022129.png"
   ]
 }

@@ -512,3 +512,6 @@ Images/Deep Dives/<Topic>/
 ```
 
 Then create/check the Attachment Management override for that topic folder.
+
+
+and also one plugin for auto git push "Obsidian Git"
