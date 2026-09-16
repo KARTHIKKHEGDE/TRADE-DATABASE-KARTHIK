@@ -7,8 +7,8 @@ SetUp:
 Qty: 8000
 Entry: 2.16
 Exit: 1.71
-P&L: 3605
-"% Gain/Loss": 20.86
+P&L: 2230
+"% Gain/Loss": 12.91
 "% Total Move": 20.83
 ---
 

@@ -24,30 +24,32 @@
             "id": "b96176434b8503f7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Trade Journals/2026/Trade Journal 2026.base",
-                "viewName": "Trade Journal 2026"
+                "file": "Deep Dives/Parabolic Short/Parabolic Short.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Trade Journal 2026"
+              "icon": "lucide-file",
+              "title": "Parabolic Short"
             }
           },
           {
             "id": "e9e7f55cd89f8d69",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Trade Journals/2026/Trade Journal 2026.base",
-                "viewName": "Trade Journal 2026"
+                "file": "Trade Journals/2026/Trades/MNOV.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Trade Journal 2026"
+              "icon": "lucide-file",
+              "title": "MNOV"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52c215c08a3fdd49",
@@ -227,15 +230,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9e7f55cd89f8d69",
+  "active": "b96176434b8503f7",
   "lastOpenFiles": [
+    "Images/Parabolic Short/IMG-20260917010627149.png",
+    "Deep Dives/Parabolic Short/ideas.md",
+    "Images/Parabolic Short/IMG-20260917010225801.png",
+    "Trade Journals/2026/Trade Journal 2026.base",
+    "Trade Journals/2026/Trades/MNOV.md",
+    "Images/Trades/2026/IMG-20260917010034576.png",
+    "Images/Trades/2026/IMG-20260917005940771.png",
+    "Templates/Trade Review.md",
+    "Images/Trades/2026/IMG-20260917005817525.png",
     "Trade Journals/2026/Trades/ZTG.md",
     "Images/Trades/2026/IMG-20260917005023732.png",
     "Images/Trades/2026/IMG-20260917004923729.png",
     "Images/Trades/2026/IMG-20260917004837914.png",
-    "Trade Journals/2026/Trade Journal 2026.base",
     "PROCESS.md",
-    "Deep Dives/Parabolic Short/ideas.md",
     "Images/Parabolic Short/IMG-20260916201206288.png",
     "Deep Dives/Parabolic Short/Parabolic Short.md",
     "Deep Dives/Parabolic Short/Checklist for shorting.md",
@@ -256,14 +266,10 @@
     "Deep Dives/Intraday Deepdives.md",
     "Setting up things.md",
     "Unconfirmed 934992.crdownload",
-    "Images/Deep Dives/IMG-20260916033007088.png",
     "broken links output.md",
     "orphaned files output.md",
     "Resources/EP/Swans collection.md",
     "Images/Parabolic Short",
-    "Images/Parabolic Short/IMG-20260916033017464.png",
-    "Images/Trades/2026/IMG-20260916025349685.png",
-    "Images/Trades/2026/IMG-20260916025343168.png",
     "Images/Deep Dives/Parabolic Short/ideas",
     "Images/Deep Dives/Parabolic Short",
     "Deep Dives/Parabolic Short",
@@ -271,8 +277,6 @@
     "Resources/Stockbee.md",
     "Resources/BOOKS.md",
     "Resources/EP/swan notes.md",
-    "DB/Momentum.md",
-    "DB/SB Ideas.md",
-    "Deep Dives/Parabolic_short/Parabolic_short-d3fc5cc4-51bd-5de7-8f79-d524db4c005e.md"
+    "DB/Momentum.md"
   ]
 }
