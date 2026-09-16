@@ -11,17 +11,31 @@
             "id": "bdeb1e39f3a93628",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Trade Journals/2026/Trade Journal 2026.base",
+                "viewName": "Trade Journal 2026"
+              },
+              "icon": "lucide-table",
+              "title": "Trade Journal 2026"
+            }
+          },
+          {
+            "id": "b96176434b8503f7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Playbook/2026/September/09-16-2026.md",
+                "file": "PROCESS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-16-2026"
+              "title": "PROCESS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "senarios",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +93,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,19 +215,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73ce23c4486bcef1",
+  "active": "b96176434b8503f7",
   "lastOpenFiles": [
+    "Trade Journals/2026/Trade Journal 2026.base",
+    "PROCESS.md",
     "GOAL.md",
+    "Daily Playbook/2026/September/09-16-2026.md",
+    "Images/Daily Playbook/2026/September/09-16-2026/IMG-20260916182149375.png",
+    "Images/Daily Playbook/2026/September/09-16-2026",
+    "Images/Daily Playbook/2026/September",
+    "Images/Daily Playbook/2026",
+    "Images/Daily Playbook",
+    "Images/Daily Playbook/2026/September/09-16-2026/IMG-20260916182128206.png",
     "Trade Journals/2026/Trades/SMCPHARMAS.md",
     "Trade Journals/2026/Trades/AHCL.md",
-    "Trade Journals/2026/Trade Journal 2026.base",
     "DB/Advanced Techniques in Day Trading_ A Practical Guide to -- Andrew Aziz.md",
     "DB/Delayed EP.md",
     "Deep Dives/Parabolic Short/Parabolic Short.md",
     "Deep Dives/Parabolic Short/ideas.md",
     "Obsidian_Trade_Journal_Migration_Guide.md",
     "Templates/Daily Playbook.md",
-    "Daily Playbook/2026/September/09-16-2026.md",
     "Deep Dives/Intraday Deepdives.md",
     "Setting up things.md",
     "Unconfirmed 934992.crdownload",
@@ -237,17 +257,10 @@
     "Resources/Stockbee.md",
     "Resources/BOOKS.md",
     "Resources/EP/swan notes.md",
-    "Resources/EP",
     "DB/Momentum.md",
     "DB/SB Ideas.md",
     "Deep Dives/Parabolic_short/Parabolic_short-d3fc5cc4-51bd-5de7-8f79-d524db4c005e.md",
     "DB/Market Wizards The Next Generation (Coyle, George F.  Schwager, Jack D.).md",
-    "DB/Victory in Stock Trading_ Strategy and Tactics of the 2020 -- Oliver Kell.md",
-    "DB/Maximum Trading Gains with Anchored VWAP_ The Perfect -- Brian Shannon.md",
-    "DB",
-    "Deep Dives/notes_from_books",
-    "Deep Dives/Parabolic_short",
-    "Pasted image 20260916022109.png",
-    "Pasted image 20260916022129.png"
+    "DB/Victory in Stock Trading_ Strategy and Tactics of the 2020 -- Oliver Kell.md"
   ]
 }
