@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GOAL.md",
+                "file": "Daily Playbook/2026/September/09-16-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GOAL"
+              "title": "09-16-2026"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "senarios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdeb1e39f3a93628",
+  "active": "73ce23c4486bcef1",
   "lastOpenFiles": [
+    "GOAL.md",
     "Trade Journals/2026/Trades/SMCPHARMAS.md",
     "Trade Journals/2026/Trades/AHCL.md",
     "Trade Journals/2026/Trade Journal 2026.base",
@@ -211,7 +213,6 @@
     "Deep Dives/Parabolic Short/Parabolic Short.md",
     "Deep Dives/Parabolic Short/ideas.md",
     "Obsidian_Trade_Journal_Migration_Guide.md",
-    "GOAL.md",
     "Templates/Daily Playbook.md",
     "Daily Playbook/2026/September/09-16-2026.md",
     "Deep Dives/Intraday Deepdives.md",
