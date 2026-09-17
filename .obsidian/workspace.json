@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROCESS.md",
+                "file": "GOAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROCESS"
+              "title": "GOAL"
             }
           },
           {
@@ -229,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdeb1e39f3a93628",
+  "active": "74b0cdb8e48a4c6c",
   "lastOpenFiles": [
-    "Obsidian_Trade_Journal_Migration_Guide.md",
     "PROCESS.md",
+    "Obsidian_Trade_Journal_Migration_Guide.md",
     "DB/Advanced Techniques in Day Trading_ A Practical Guide to -- Andrew Aziz.md",
     "Resources/BOOKS.md",
     "DB/How to Day Trade for a Living -- Andrew Aziz.md",
