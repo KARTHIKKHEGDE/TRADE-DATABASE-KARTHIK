@@ -365,8 +365,13 @@ again trendline
 ![[IMG-20260917010821282.png]]
 
 
+---
 
 40)
-here on FRD usually extention will be very high in firs few min u can see compare green candles of all day , on FRD it is high and also last green day gave good short
+here on FRD usually extension will be very high in first few min u can see compare green candles of all day , on FRD it is high and also last green day gave good short
 ![[IMG-20260917145547327.png]]
 ![[IMG-20260917145803679.png]]
+
+
+-----------
+41)
