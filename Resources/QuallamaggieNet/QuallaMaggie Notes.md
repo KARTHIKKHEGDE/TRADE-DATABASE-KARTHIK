@@ -1,5 +1,4 @@
 
-
 Notes from Kristjan Kullamägi’s streams mid nov 2020-8.01.2021 + swing trading school + Twitter
 
 # Setups
