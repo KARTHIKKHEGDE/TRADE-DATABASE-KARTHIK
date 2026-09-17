@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trade Journals/2026/Trades/RAYMOND.md",
+                "file": "Resources/QuallamaggieNet/Daily Awareness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAYMOND"
+              "title": "Daily Awareness"
             }
           },
           {
@@ -231,15 +231,22 @@
   },
   "active": "bdeb1e39f3a93628",
   "lastOpenFiles": [
+    "Resources/QuallamaggieNet/QuallaMaggie Notes.md",
+    "Resources/QuallamaggieNet/Daily Awareness.md",
+    "PROCESS.md",
+    "Resources/QuallamaggieNet",
+    "Trade Journals/2026/Trade Journal 2026.base",
+    "Resources/BOOKS.md",
+    "Resources/Swing School.md",
+    "Resources/Stockbee.md",
+    "Deep Dives/Intraday Deepdives.md",
     "Daily Playbook/2026/September/09-16-2026.md",
     "Trade Journals/2026/Trades/RAYMOND.md",
     "Images/Trades/2026/IMG-20260917115327336.png",
     "Images/Trades/2026/IMG-20260917115308216.png",
     "Images/Trades/2026/IMG-20260917115247031.png",
     "Images/Trades/2026/IMG-20260917115107271.png",
-    "Trade Journals/2026/Trade Journal 2026.base",
     "Deep Dives/Parabolic Short/Simon Russo Best trade.md",
-    "PROCESS.md",
     "GOAL.md",
     "Deep Dives/Parabolic Short/Checklist for shorting.md",
     "Images/Parabolic Short/IMG-20260917011747741.png",
@@ -263,18 +270,12 @@
     "DB/Delayed EP.md",
     "Obsidian_Trade_Journal_Migration_Guide.md",
     "Templates/Daily Playbook.md",
-    "Deep Dives/Intraday Deepdives.md",
     "Setting up things.md",
     "Unconfirmed 934992.crdownload",
     "broken links output.md",
     "orphaned files output.md",
-    "Resources/EP/Swans collection.md",
     "Images/Parabolic Short",
     "Images/Deep Dives/Parabolic Short/ideas",
-    "Images/Deep Dives/Parabolic Short",
-    "Deep Dives/Parabolic Short",
-    "Resources/Swing School.md",
-    "Resources/Stockbee.md",
-    "Resources/BOOKS.md"
+    "Images/Deep Dives/Parabolic Short"
   ]
 }
