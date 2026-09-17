@@ -20,3 +20,9 @@
 
 
 * observation is during parabolic move it literally moves like a step , and major move would have happened in first early few mins itself![[IMG-20260917010225801.png]]
+
+
+* even when extention is there and volume is 2x of prev candle but wick is not high then we should keep stoploss little above the high vol candle , if wick is high then we can keep high of the wick as stoploss example:
+![[IMG-20260917152016471.png]]
+
+

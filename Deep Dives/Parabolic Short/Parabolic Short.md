@@ -375,3 +375,4 @@ here on FRD usually extension will be very high in first few min u can see compa
 
 -----------
 41)
+![[IMG-20260917152128520.png]]
