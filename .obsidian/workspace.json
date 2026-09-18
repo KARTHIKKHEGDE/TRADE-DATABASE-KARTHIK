@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GOAL.md",
+                "file": "Quotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GOAL"
+              "title": "Quotes"
             }
           },
           {
@@ -229,9 +229,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74b0cdb8e48a4c6c",
+  "active": "bdeb1e39f3a93628",
   "lastOpenFiles": [
-    "PROCESS.md",
+    "Images/Quotes",
+    "Images/PROCESS",
+    "Images/Quotes/IMG-20260918123350119.png",
+    "GOAL.md",
+    "Quotes.md",
     "Obsidian_Trade_Journal_Migration_Guide.md",
     "DB/Advanced Techniques in Day Trading_ A Practical Guide to -- Andrew Aziz.md",
     "Resources/BOOKS.md",
@@ -245,7 +249,6 @@
     "Deep Dives/Parabolic Short/Simon Russo Best trade.md",
     "Templates/Daily Playbook.md",
     "Trade Journals/2026/Trade Journal 2026.base",
-    "GOAL.md",
     "Deep Dives/Parabolic Short/ideas.md",
     "Deep Dives/Intraday Deepdives.md",
     "Deep Dives/Parabolic Short/Checklist for shorting.md",
@@ -261,7 +264,6 @@
     "Images/Trades/2026/IMG-20260917115308216.png",
     "Images/Trades/2026/IMG-20260917115247031.png",
     "Images/Trades/2026/IMG-20260917115107271.png",
-    "Images/Parabolic Short/IMG-20260917011747741.png",
     "Trade Journals/2026/Trades/MNOV.md",
     "Templates/Trade Review.md",
     "Trade Journals/2026/Trades/ZTG.md",
@@ -272,10 +274,8 @@
     "Trade Journals/2026/Trades/SMCPHARMAS.md",
     "Trade Journals/2026/Trades/AHCL.md",
     "DB/Delayed EP.md",
-    "Setting up things.md",
     "Unconfirmed 934992.crdownload",
     "Images/Parabolic Short",
-    "Images/Deep Dives/Parabolic Short/ideas",
-    "Images/Deep Dives/Parabolic Short"
+    "Images/Deep Dives/Parabolic Short/ideas"
   ]
 }
