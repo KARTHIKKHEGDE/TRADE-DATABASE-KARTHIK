@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes.md",
+                "file": "Deep Dives/Parabolic Short/qlamgie 2020.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quotes"
+              "title": "qlamgie 2020"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,13 +244,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9e7f55cd89f8d69",
+  "active": "856b71c677b3af05",
   "lastOpenFiles": [
+    "Images/Parabolic Short/IMG-20260918224802102.png",
+    "Deep Dives/Parabolic Short/Parabolic Short.md",
+    "Quotes.md",
+    "Deep Dives/Parabolic Short/Checklist for shorting.md",
     "Deep Dives/Parabolic Short/qlamgie 2020.md",
     "Images/Parabolic Short/IMG-20260918221130803.png",
     "Trade Journals/2026/Trades/MNOV.md",
     "Deep Dives/Parabolic Short/ideas.md",
-    "Quotes.md",
     "Images/Parabolic Short/IMG-20260918213545931.png",
     "Images/Parabolic Short/IMG-20260918213000134.png",
     "Images/Parabolic Short/IMG-20260918205059350.png",
@@ -259,8 +262,6 @@
     "Images/Parabolic Short/IMG-20260918202058899.png",
     "Images/Parabolic Short/IMG-20260918201703292.png",
     "Images/Parabolic Short/IMG-20260918201438530.png",
-    "Deep Dives/Parabolic Short/Checklist for shorting.md",
-    "Deep Dives/Parabolic Short/Parabolic Short.md",
     "ALGO.md",
     "Deep Dives/Parabolic Short/Qlamgie 2021/dive.md",
     "Deep Dives/Parabolic Short/Qlamgie 2021",

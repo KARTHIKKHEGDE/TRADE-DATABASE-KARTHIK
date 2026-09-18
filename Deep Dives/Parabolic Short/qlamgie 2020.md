@@ -24,3 +24,7 @@ intraday of next day i mean first short day
 2)
 
 ![[IMG-20260918221130803.png]]
+
+on second day i would be looking for short opp 
+second day intraday chart 
+![[IMG-20260918224802102.png]]
