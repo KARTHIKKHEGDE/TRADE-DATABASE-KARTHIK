@@ -65,3 +65,12 @@ intraday of day 2
 ![[IMG-20260918233246275.png]]
 
 day 3 
+this also not a great set up ig , if u see day 4 candles it is exactly similar to DWAC , after FRD next day  gap up happens just above vwap of the FRD
+![[IMG-20260918233912566.png]]
+
+day 4 intraday
+
+![[IMG-20260918234529189.png]]
+
+15 min trendline break
+![[IMG-20260918234908856.png]]
