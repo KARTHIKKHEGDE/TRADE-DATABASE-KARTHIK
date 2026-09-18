@@ -10,6 +10,6 @@ fourth day intraday chart , it never showed weakness , it didnt extend above bba
 
 so now i will wait for next day 
 intraday of next day i mean first short day 
-![[IMG-20260918203122046.png]]
 
+![[IMG-20260918205059350.png]]
 
