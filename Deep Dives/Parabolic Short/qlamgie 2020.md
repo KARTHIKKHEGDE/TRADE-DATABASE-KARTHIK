@@ -99,7 +99,19 @@ on day 3
 day 4 intraday ( after FRD its not that good to trade , if we dont have other ticker to look at , then can be considered , some offers really good short even after FRD )
 ![[Pasted image 20260919002851.png]]
 
-
+15min tf trendline
+![[Pasted image 20260919004309.png]]
 
 ---
 5)
+VRDN 1/30/2020
+![[Pasted image 20260919004450.png]]
+
+
+Since day 1 itself sold of heavily , i am less interested in day 2 , since day 2 has a good move , i am interested in day 3 , 
+
+day 2 ending it had capitulation
+![[Pasted image 20260919004911.png]]
+
+
+day 3 
