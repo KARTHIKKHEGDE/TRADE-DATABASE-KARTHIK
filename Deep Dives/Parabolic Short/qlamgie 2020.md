@@ -13,3 +13,11 @@ intraday of next day i mean first short day
 
 ![[IMG-20260918205059350.png]]
 
+7th day , big gap up day 
+![[IMG-20260918213000134.png]]
+
+
+
+
+
+---
