@@ -21,3 +21,6 @@ intraday of next day i mean first short day
 
 
 ---
+2)
+
+![[IMG-20260918221130803.png]]
