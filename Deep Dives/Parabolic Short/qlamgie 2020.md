@@ -1,5 +1,7 @@
 
 1)
+SAVA 1/6/2020 :
+DEC 5 2019 
 
 here first and second day it was strong ,and then on third day also it was strong , fourth day i would be looking for short
 ![[IMG-20260918201438530.png]]
@@ -35,3 +37,16 @@ second day intraday chart
 on 4th day it didnt show weakness , on 5th day it gapped up highly , it is a A+++ SE UP because volume on the 4th day was crazy 
 5th day intraday 
 ![[IMG-20260918230510874.png]]
+
+6th day 
+![[IMG-20260918230817141.png]]
+
+
+15 min view of whole thing 
+![[IMG-20260918231014870.png]]
+
+
+
+---
+
+3)
