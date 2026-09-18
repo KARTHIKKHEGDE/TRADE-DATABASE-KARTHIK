@@ -1,0 +1,1 @@
+1) find stocks that has moved down heavily 
