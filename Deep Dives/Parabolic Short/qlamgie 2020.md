@@ -89,7 +89,17 @@ same late reaction
 
 
 on day 2 intraday 
-![[Pasted image 20260919002017.png]]
+
 
 
 on day 3 
+![[Pasted image 20260919002531.png]]
+
+
+day 4 intraday ( after FRD its not that good to trade , if we dont have other ticker to look at , then can be considered , some offers really good short even after FRD )
+![[Pasted image 20260919002851.png]]
+
+
+
+---
+5)

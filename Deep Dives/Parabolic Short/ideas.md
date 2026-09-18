@@ -35,3 +35,5 @@
 
 
 
+* covering size should be proportional to volume in the red candle ( capitulation level )
+
