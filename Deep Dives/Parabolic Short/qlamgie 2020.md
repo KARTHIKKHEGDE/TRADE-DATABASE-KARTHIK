@@ -1,7 +1,10 @@
 
 1)
 SAVA 1/6/2020 :
-DEC 5 2019 
+DEC 5 2019 So investors essentially saw:
+
+**Early Alzheimer's drug → promising biomarker results → every patient responded → possibility that the drug could work → huge speculative buying in SAVA.**
+but there were no new news on 1/6/2020 so it was an old news but new reaction of late buyers
 
 here first and second day it was strong ,and then on third day also it was strong , fourth day i would be looking for short
 ![[IMG-20260918201438530.png]]
@@ -24,6 +27,8 @@ intraday of next day i mean first short day
 
 ---
 2)
+APT :
+APT was rising because of the coronavirus outbreak, which pushed investors into mask makers. The company itself had no news.- **Jan 17:** The CDC began entry screening for Wuhan travelers at SFO, JFK and LAX airports. **Jan 20-21:** China confirmed the virus spreads person to person, with 217 cases. Then the CDC announced the first travel-related US case, in Washington state.
 
 ![[IMG-20260918221130803.png]]
 
@@ -50,3 +55,13 @@ on 4th day it didnt show weakness , on 5th day it gapped up highly , it is a A++
 ---
 
 3)
+INO 1/18/2020 : **Jan 23, 2020:** Inovio announced that CEPI awarded it a grant of up to $9M to develop a vaccine for the new coronavirus. The vaccine candidate is INO-4800. The stock rose almost 12% that day. ( LATE REACTION )
+
+![[IMG-20260918232809155.png]]
+
+On day 2 i would be looking for short , 
+intraday of day 2 
+( not a great set up anyway )
+![[IMG-20260918233246275.png]]
+
+day 3 
