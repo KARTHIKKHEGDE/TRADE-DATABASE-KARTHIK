@@ -7,22 +7,23 @@ DEC 5 2019 So investors essentially saw:
 but there were no new news on 1/6/2020 so it was an old news but new reaction of late buyers
 
 here first and second day it was strong ,and then on third day also it was strong , fourth day i would be looking for short
-![[IMG-20260918201438530.png]]
+![[Pasted image 20260919010558.png]]
 
 
-fourth day intraday chart , it never showed weakness , it didnt extend above bband
+3 day intraday chart , it never showed weakness , it didnt extend above bband
 ![[IMG-20260918201703292.png]]
 
 so now i will wait for next day 
 intraday of next day i mean first short day 
-
+break of prev close is also a very good metric 
 ![[IMG-20260918205059350.png]]
 
-7th day , big gap up day 
+6th day , big gap up day 
 ![[IMG-20260918213545931.png]]
 
-
-
+10th day ( after big vol day )
+i co
+![[Pasted image 20260919010739.png]]
 
 
 ---
@@ -115,3 +116,12 @@ day 2 ending it had capitulation
 
 
 day 3 
+![[Pasted image 20260919005341.png]]
+
+
+day 4 
+![[Pasted image 20260919005615.png]]
+
+
+day 5
+![[Pasted image 20260919005918.png]]

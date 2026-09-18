@@ -37,3 +37,5 @@
 
 * covering size should be proportional to volume in the red candle ( capitulation level )
 
+* break of prev close is also a very good metric for entering on FRD
+* 
