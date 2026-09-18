@@ -26,3 +26,7 @@
 ![[IMG-20260917152016471.png]]
 
 
+* when we enter on the first candle high red vol our entry will be in 2nd candle so if its going up we should be careful , should be watching 1 min candle also 
+
+* add on vwap tap heavily , but stop should be very near to vwap ( add only after seeing red candle or higher wick in green candle near vwap , otherwise avoid it)
+* 

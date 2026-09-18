@@ -28,3 +28,10 @@ intraday of next day i mean first short day
 on second day i would be looking for short opp 
 second day intraday chart 
 ![[IMG-20260918224802102.png]]
+
+3rd day i will not see only mostly , but 3rd day in this case formed trapping set up , first 5 min high red vol , but then again it was near vwap itself and volume kept on decreasing so its a red flag , and it actually stared to form flag kind of structure so we should get out 
+![[IMG-20260918225752499.png]]
+
+on 4th day it didnt show weakness , on 5th day it gapped up highly , it is a A+++ SE UP because volume on the 4th day was crazy 
+5th day intraday 
+![[IMG-20260918230510874.png]]

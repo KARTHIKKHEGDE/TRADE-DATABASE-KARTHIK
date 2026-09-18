@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,24 +244,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "856b71c677b3af05",
+  "active": "b96176434b8503f7",
   "lastOpenFiles": [
+    "Deep Dives/Parabolic Short/Checklist for shorting.md",
+    "Deep Dives/Parabolic Short/qlamgie 2020.md",
+    "Images/Parabolic Short/IMG-20260918230510874.png",
+    "Images/Parabolic Short/IMG-20260918225752499.png",
+    "Deep Dives/Parabolic Short/ideas.md",
+    "Images/Parabolic Short/IMG-20260918225629226.png",
+    "Images/Parabolic Short/IMG-20260918225619307.png",
     "Images/Parabolic Short/IMG-20260918224802102.png",
     "Deep Dives/Parabolic Short/Parabolic Short.md",
     "Quotes.md",
-    "Deep Dives/Parabolic Short/Checklist for shorting.md",
-    "Deep Dives/Parabolic Short/qlamgie 2020.md",
     "Images/Parabolic Short/IMG-20260918221130803.png",
     "Trade Journals/2026/Trades/MNOV.md",
-    "Deep Dives/Parabolic Short/ideas.md",
     "Images/Parabolic Short/IMG-20260918213545931.png",
     "Images/Parabolic Short/IMG-20260918213000134.png",
     "Images/Parabolic Short/IMG-20260918205059350.png",
     "Deep Dives/Parabolic Short/Simon Russo Best trade.md",
     "Images/Parabolic Short/IMG-20260918203122046.png",
-    "Images/Parabolic Short/IMG-20260918202058899.png",
-    "Images/Parabolic Short/IMG-20260918201703292.png",
-    "Images/Parabolic Short/IMG-20260918201438530.png",
     "ALGO.md",
     "Deep Dives/Parabolic Short/Qlamgie 2021/dive.md",
     "Deep Dives/Parabolic Short/Qlamgie 2021",
@@ -270,8 +271,6 @@
     "Images/Resources/Lance/IMP Tweets",
     "Images/Resources/Lance",
     "Images/Resources",
-    "Images/Resources/Lance/IMP Tweets/IMG-20260918140246733.png",
-    "Images/Quotes/IMG-20260918135934993.png",
     "Resources/Lance",
     "Images/Quotes",
     "Images/PROCESS",
