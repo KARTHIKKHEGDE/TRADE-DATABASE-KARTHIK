@@ -33,3 +33,5 @@
 * Whenever you cant draw a proper trendline because of  stairs structure , just draw trendline by joining VWAP end  point of each day
 ![[IMG-20260918234941395.png]]
 
+
+

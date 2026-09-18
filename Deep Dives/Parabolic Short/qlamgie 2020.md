@@ -74,3 +74,14 @@ day 4 intraday
 
 15 min trendline break
 ![[IMG-20260918234908856.png]]
+
+
+---
+
+4)
+AHPI 1/28/2020 : 
+
+![[IMG-20260918235638938.png]]
+
+
+on day 2 intraday 
