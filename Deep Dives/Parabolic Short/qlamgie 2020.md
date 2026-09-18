@@ -80,8 +80,16 @@ day 4 intraday
 
 4)
 AHPI 1/28/2020 : 
+AHPI is Allied Healthcare Products, a small company that makes emergency medical supplies and respiratory devices. I found no company press release on or around Jan 28, 2020. It moved because it was swept up in the coronavirus trading.
+- **Fri, Jan 24:** The stock surged amid worries about the Wuhan coronavirus. The second US case was also confirmed that day. It rose 93% to $2.90, and its market cap was only about $11M.
+
+same late reaction 
 
 ![[IMG-20260918235638938.png]]
 
 
 on day 2 intraday 
+![[Pasted image 20260919002017.png]]
+
+
+on day 3 
