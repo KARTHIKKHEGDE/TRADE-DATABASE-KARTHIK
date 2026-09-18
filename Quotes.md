@@ -2,3 +2,5 @@
   Continue executing the predetermined process as long as the setup remains valid.
 
 ![[IMG-20260918123350119.png]]
+
+![[IMG-20260918135822748.png]]
