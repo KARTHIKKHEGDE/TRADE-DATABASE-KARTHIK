@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Swing School.md",
+                "file": "Resources/Lance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swing School"
+              "title": "Lance"
             }
           },
           {
@@ -232,6 +232,9 @@
   },
   "active": "856b71c677b3af05",
   "lastOpenFiles": [
+    "Images/Resources/Lance/IMG-20260920042228936.png",
+    "Resources/Swing School.md",
+    "Resources/Lance.md",
     "Resources/Stockbee.md",
     "Resources/BOOKS.md",
     "Resources/QuallamaggieNet/Useful websites.md",
@@ -268,14 +271,12 @@
     "Obsidian_Trade_Journal_Migration_Guide.md",
     "DB/Advanced Techniques in Day Trading_ A Practical Guide to -- Andrew Aziz.md",
     "DB/How to Day Trade for a Living -- Andrew Aziz.md",
-    "Resources/Swing School.md",
     "Templates/Daily Playbook.md",
     "Trade Journals/2026/Trade Journal 2026.base",
     "Deep Dives/Intraday Deepdives.md",
     "Resources/QuallamaggieNet",
     "Daily Playbook/2026/September/09-16-2026.md",
     "Trade Journals/2026/Trades/RAYMOND.md",
-    "Templates/Trade Review.md",
     "Images/Daily Playbook/2026/September/09-16-2026"
   ]
 }
