@@ -22,7 +22,7 @@ break of prev close is also a very good metric
 ![[IMG-20260918213545931.png]]
 
 10th day ( after big vol day )
-i co
+i could not find any good entry 
 ![[Pasted image 20260919010739.png]]
 
 
