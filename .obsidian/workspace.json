@@ -25,14 +25,13 @@
             "id": "856b71c677b3af05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Deep Dives/Intraday Deepdives.md",
-                "mode": "source",
-                "source": false
+                "file": "Trade Journals/2026/Trade Journal 2026.base",
+                "viewName": "Trade Journal 2026"
               },
-              "icon": "lucide-file",
-              "title": "Intraday Deepdives"
+              "icon": "lucide-table",
+              "title": "Trade Journal 2026"
             }
           },
           {
@@ -230,8 +229,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74b0cdb8e48a4c6c",
+  "active": "856b71c677b3af05",
   "lastOpenFiles": [
+    "Resources/Stockbee.md",
+    "Resources/Lance.md",
+    "Resources/BOOKS.md",
+    "Deep Dives/Intraday Deepdives.md",
     "Resources/EP/Swans collection.md",
     "Resources/EP/swan notes.md",
     "Obsidian_Trade_Journal_Migration_Guide.md",
@@ -239,12 +242,9 @@
     "Deep Dives/Parabolic Short/qlamgie 2020.md",
     "Deep Dives/Parabolic Short/Parabolic Short.md",
     "Deep Dives/Parabolic Short/ideas.md",
-    "Resources/Lance.md",
     "Images/Resources/Lance/IMG-20260920072240447.png",
     "Images/Resources/Lance/IMG-20260920042228936.png",
     "Resources/Swing School.md",
-    "Resources/Stockbee.md",
-    "Resources/BOOKS.md",
     "Resources/QuallamaggieNet/Useful websites.md",
     "Resources/QuallamaggieNet/QuallaMaggie Notes.md",
     "Resources/QuallamaggieNet/Daily Awareness.md",
@@ -274,7 +274,6 @@
     "DB/How to Day Trade for a Living -- Andrew Aziz.md",
     "Templates/Daily Playbook.md",
     "Trade Journals/2026/Trade Journal 2026.base",
-    "Deep Dives/Intraday Deepdives.md",
     "Resources/QuallamaggieNet",
     "Daily Playbook/2026/September/09-16-2026.md",
     "Images/Daily Playbook/2026/September/09-16-2026"
