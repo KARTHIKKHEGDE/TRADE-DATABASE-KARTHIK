@@ -25,12 +25,14 @@
             "id": "856b71c677b3af05",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Parabolic Short/IMG-20260917010821282.png"
+                "file": "Obsidian_Trade_Journal_Migration_Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG-20260917010821282"
+              "icon": "lucide-file",
+              "title": "Obsidian_Trade_Journal_Migration_Guide"
             }
           },
           {
@@ -230,6 +232,7 @@
   },
   "active": "856b71c677b3af05",
   "lastOpenFiles": [
+    "Images/Parabolic Short/IMG-20260917010821282.png",
     "Obsidian_Trade_Journal_Migration_Guide.md",
     "Deep Dives/Parabolic Short/qlamgie 2020.md",
     "Deep Dives/Parabolic Short/Parabolic Short.md",
